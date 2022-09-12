@@ -29,7 +29,7 @@ NPS = (PorcentagemPromotoes - PorcentagemDetratores)*100
 
 image01 = Image.open('desenvolvimento.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Tecnologia de Informação e Comunicação - TIC (6ºT)")
+st.title("ANÁLISE DE DADOS")
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 # st.header("Cabeçalho")
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
